@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 👀 I’m interested in Go, DevOps, Python
+- 👀 I’m interested in Go, SRE, DevOps, Python
 - 🌱 I’m currently learning Go, Terraform
 - 👯 I’m looking to collaborate on interesting's thing or project about go or game
-- 📫 How to reach me kylechou@devopsthink.org
+- 📫 How to reach me bernylinville@devopsthink.org
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylechou-dunk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
