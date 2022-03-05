@@ -49,17 +49,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     14 mins             █████████████████████░░░░   84.47% 
-Java                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.53%
+Text                     35 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+VS Code                  35 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          16 mins             █████████████████████████   100.0%
+Unknown Project          35 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.0%
+Mac                      35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +79,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bernylinville/bernylinville/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 01:25:35 UTC
+ Last Updated on 05/03/2022 01:18:18 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville)](https://github.com/anuraghazra/github-readme-stats)
