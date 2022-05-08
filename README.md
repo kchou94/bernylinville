@@ -6,6 +6,8 @@
 - 📫 How to reach me bernylinville@devopsthink.org
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -79,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bernylinville/bernylinville/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 01:43:26 UTC
+ Last Updated on 08/05/2022 01:50:46 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville)](https://github.com/anuraghazra/github-readme-stats)
