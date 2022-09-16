@@ -22,6 +22,48 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    43 commits     ██████░░░░░░░░░░░░░░░░░░░   26.88% 
+🌆 Daytime    80 commits     ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Evening    37 commits     █████░░░░░░░░░░░░░░░░░░░░   23.12% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Thursday     44 commits     ███████░░░░░░░░░░░░░░░░░░   27.5% 
+Friday       41 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -39,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bernylinville/bernylinville/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 02:35:10 UTC
+ Last Updated on 16/09/2022 02:34:45 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville)](https://github.com/anuraghazra/github-readme-stats)
