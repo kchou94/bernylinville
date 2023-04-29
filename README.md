@@ -6,9 +6,9 @@
 - 📫 How to reach me bernylinville@devopsthink.org
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -51,24 +51,24 @@ Sunday                   835 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Terraform                6 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.91 % 
-Other                    4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-Nginx configuration file 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Terraform                4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
+Other                    4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Nginx configuration file 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+C                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-terraform-aws-ecs-account7 hrs 24 mins       █████████████░░░░░░░░░░░░   50.81 % 
-Unknown Project          4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-terraform-aws-ecs-monitor1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-clash-premium            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-terraform-aws-ec2-monitor24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Unknown Project          4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.33 % 
+terraform-aws-ecs-account3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
+terraform-aws-ecs-monitor1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+clash-premium            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+terraform-aws-ec2-monitor24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Mac                      14 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bernylinville/bernylinville/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/04/28 00:24:32 UTC
+ Last Updated on 2023/04/29 00:23:32 UTC
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernylinville)](https://github.com/anuraghazra/github-readme-stats)
